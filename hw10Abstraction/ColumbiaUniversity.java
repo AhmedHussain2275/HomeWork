@@ -15,6 +15,18 @@ public class ColumbiaUniversity extends MedicalSchool {
 		// yes we can create a constructor in regular class.
 	}
 
+	@Override
+	public void anatomyLab() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void hygiene() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	/*
 	 * Step 07: Keywords for regular class inheritance: 'extends' - A regular class
 	 * can inherit an abstract class or another regular class using 'extends'. - A
